@@ -7,6 +7,7 @@ package pi;
 public class PI {
     
     public static void main(String[] args) {
+        // ENTRADA
         double f  = 212;
         
         double c = (5.0 / 9.0) * (f - 32);
