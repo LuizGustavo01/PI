@@ -16,6 +16,9 @@ public class PI {
         // SAIDA
         System.out.println(f + "°F = " + c + "°C");
         
+        // RESULTADO DA CONVESÃO
+       
+        
         
     }
     
